@@ -10,4 +10,3 @@ const App = () => {
 }
 
 export default App
-// Continue to 2h https://www.youtube.com/watch?v=W1Ed9TEMGJU
