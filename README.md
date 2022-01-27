@@ -2,7 +2,7 @@
 
 <p>Minha primeira experiência com React + Typescript com ajuda do curso, fiz algumas modificações no layout para deixa-lo mais interessante, esse app usa a context api. Tive um pouco de dificuldade para entender como funciona o Typescript juntamente ao react no inicio do projeto, mas conforme foi passando, consegui entender pelo menos basicamente como ambos trabalham em conjunto.</p>
 
-<img src="https://github.com/d8web/Form-Multi-steps-react-ts"/>
+<img src="https://github.com/d8web/Form-Multi-steps-react-ts/blob/main/Anima%C3%A7%C3%A3o.gif"/>
 
 ### Features
 
